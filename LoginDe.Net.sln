@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginDe.Net", "LoginDe.Net\LoginDe.Net.csproj", "{F4732302-618C-4EF6-BC17-ED54AF458DBB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2A6C63D6-C662-47D8-94E4-1197ECA2B4F6}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4732302-618C-4EF6-BC17-ED54AF458DBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4732302-618C-4EF6-BC17-ED54AF458DBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4732302-618C-4EF6-BC17-ED54AF458DBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4732302-618C-4EF6-BC17-ED54AF458DBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2921DFA8-7BF9-4B35-B53A-149F08B395C1}
+	EndGlobalSection
+EndGlobal
